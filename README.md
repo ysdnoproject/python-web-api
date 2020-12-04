@@ -26,11 +26,11 @@ uvicorn main:app --reload
 ```
 #### 2.2 
 visit 
-[http://127.0.0.1:8000/threads]() to show all threads
+<http://127.0.0.1:8000/threads> to show all threads
 #### 2.3
 visit 
-[http://127.0.0.1:8000/thread/create]() to create a new thread
+<http://127.0.0.1:8000/thread/create> to create a new thread
 #### 2.4
 visit 
-[http://127.0.0.1:8000/thread/$ident/delete]() to delete a thread
+<http://127.0.0.1:8000/thread/$ident/delete> to delete a thread
  
